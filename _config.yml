@@ -1,17 +1,21 @@
 # Site settings
-title:          Tale
+title:          Seokhyeon Jang
 description:    "Minimal Jekyll theme for storytellers"
-# baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://boys-be-ambitious.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Seokhyeon Jang
+  url:          https://boys-be-ambitious.github.io
+  email:        seokhyeonjang89@gmail.com
+  github:       boys-be-ambitious
+  linkedin:     https://www.linkedin.com/in/seokhyeonjang/
+  instagram:    jangseokhyeon_
+
 
 # Build settings
 markdown:       kramdown
