@@ -1,9 +1,7 @@
 ---
-layout: default
 title: "Seokhyeon Jang"
-main: true
-subtitle: Data Analyst & Data Engineer at Marketdesigners.
-description: Seokhyeon Jang, who is a Data Engineer based in Seoul, South Korea. | '장석현' 데이터 엔지니어입니다. 마켓디자이너스에서 일합니다.
+author: "Seokhyeon Jang"
+permalink: /about/
 ---
 
 <div class="intro-animation">
