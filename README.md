@@ -1,6 +1,8 @@
 # This is my portfolio site based on blog.
-http://jihyeleee.com/
-![image](http://www.jihyeleee.com/img/share-img.jpg)
+
+https://boys-be-ambitious.github.io/
+
+![image](https://boys-be-ambitious.github.io/img/share-img-1.jpg)
 It's forked from (chesterhow/tale)[https://github.com/chesterhow/tale].
 
-© Jihye Leee. 2017
+© Seokhyeon Jang. 2019
