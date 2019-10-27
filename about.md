@@ -6,7 +6,7 @@ type: "About"
 author: "Seokhyeon Jang"
 permalink: /about/
 post-header: true
-header-img: img/about_1.jpg
+header-img: img/about_2.jpg
 ---
 
 시와 소설을 좋아하고 종종 글을 쓰던 문학 청년이었으나, 데이터와 코딩의 매력에 빠져 어쩌다 엔지니어가 된 사람. 신용평가사에서 데이터 분석 및 개발 업무를 거쳐 현재 MarketDesigners에서 데이터 엔지니어 겸 데이터 분석가로 근무 중이다. 
