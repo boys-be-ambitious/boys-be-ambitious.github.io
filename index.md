@@ -24,4 +24,4 @@ description: Seokhyeon Jang, who is a Data Engineer based in Seoul, South Korea.
 </section>
 </div>
 
-<!-- {% include resume.html %} -->
+{% include resume.html %}
