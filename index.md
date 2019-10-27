@@ -1,29 +1,25 @@
 ---
 layout: default
-title: "Seokhyeon Jang"
+title: "Jihye Leee"
 main: true
-subtitle: Data Analyst & Data Engineer at Marketdesigners.
-description: Seokhyeon Jang, who is a Data Engineer based in Seoul, South Korea. | '장석현' 데이터 엔지니어입니다. 마켓디자이너스에서 일합니다.
+subtitle: Digital Product Designer Jihye Leee at RIDI
+description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.
 ---
-
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Seokhyeon Jang,
+    I'm Jihye Leee,
     </h1>
-    <h1 class="intro">a Data Engineer at 
+    <h1 class="intro">a Digital Product Designer at 
         <div class="intro-link">
-            <a class="transition" href="https://marketdesigners.com/" target="_blank">
-                MarketDesigners
+            <a class="transition" href="http://ridicorp.com/" target="_blank">
+                RIDI
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'장석현' 데이터 엔지니어입니다. 마켓디자이너스에서 일합니다.</h2>
+    <h2 class="intro">'이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.</h2>
 </section>
 </div>
-
-
-
-
+{% include resume.html %}

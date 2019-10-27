@@ -1,45 +1,28 @@
-# Site settings
-title:          Seokhyeon Jang
-description:    ""
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Jihye Leee
 baseurl:        ""
-url:            "https://boys-be-ambitious.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
-
-# Author
-author:
-  name:         Seokhyeon Jang
-  url:          https://boys-be-ambitious.github.io
-  email:        seokhyeonjang89@gmail.com
-  github:       boys-be-ambitious
-  linkedin:     https://www.linkedin.com/in/seokhyeonjang/
-  instagram:    jangseokhyeon_
-
-
-# Build settings
-markdown:       kramdown
-include:
-  - _pages
+url:            "http://www.jihyeleee.com"
 
 # Assets
 sass:
   sass_dir:     _sass
-  style:        compressed
+  style:        :compressed
 
-# Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+# Build settings
+markdown:       kramdown
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+# About
+author:
+  name:         Jihye Leee
+  url:          http://jihyeleee.com/
+  email:        iam.leejihye@gmail.com  
+  github:       iamleejihye
+  twitter:      playpingpong
 
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/iamleejihye/iamleejihye.github.io
