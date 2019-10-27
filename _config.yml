@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Seokhyeon Jang
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "https://boys-be-ambitious.github.io/"
 
 # Assets
 sass:
@@ -16,13 +16,12 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         Seokhyeon Jang
+  url:          https://boys-be-ambitious.github.io/
+  email:        seokhyeonjang89@gmail.com  
+  github:       boys-be-ambitious
 
 # Custom vars
-version:        3.4.1
+version:        3.4.2
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/boys-be-ambitious/boys-be-ambitious.github.io
