@@ -1,5 +1,6 @@
 ---
-title: "Seokhyeon Jang"
+layout: post
+title: "About"
 author: "Seokhyeon Jang"
 permalink: /about/
 ---
