@@ -20,8 +20,8 @@ description: Seokhyeon Jang, who is a Data Engineer based in Seoul, South Korea.
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">안녕하세요, 데이터 엔지니어 '장석현'입니다. 마켓디자이너스에서 일하고 있습니다.</h2>
+    <h2 class="intro">안녕하세요, 데이터 엔지니어 '장석현'입니다. <br> 마켓디자이너스에서 일하고 있습니다.</h2>
 </section>
 </div>
 
-{% include resume.html %}
+<!-- {% include resume.html %} -->
