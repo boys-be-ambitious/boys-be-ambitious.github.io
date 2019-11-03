@@ -5,7 +5,8 @@ title:  "어느 늦은 저녁 나는 / 한강"
 subtitle: "『서랍에 저녁을 넣어 두었다』 (문학과지성사, 2013)"
 type: "한 켠의 시"
 text: true
-book: true
+# book: true
+literature : true
 post-header: true
 header-img: "https://unsplash.com/photos/JZT2Bw7mQS4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80"
 order: 1
