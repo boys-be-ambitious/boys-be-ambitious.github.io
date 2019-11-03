@@ -27,4 +27,5 @@ github:
   repo:         https://github.com/boys-be-ambitious/boys-be-ambitious.github.io
 
 
-disqus_shortname: 'seokhyeonjang'
+# disqus_shortname: 'seokhyeonjang'
+disqus_shortname: 'boys-be-ambitious'
