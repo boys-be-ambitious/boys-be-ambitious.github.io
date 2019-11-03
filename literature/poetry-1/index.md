@@ -7,6 +7,7 @@ type: "한 켠의 시, #1"
 text: true
 literature : true
 post-header: true
+comments: true
 header-img: "https://images.unsplash.com/photo-1527074111-ef2ff890ec8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
 order: 1
 ---
