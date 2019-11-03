@@ -3,16 +3,12 @@ layout: post
 author: "Seokhyeon Jang"
 title:  "어느 늦은 저녁 나는 / 한강"
 subtitle: "『서랍에 저녁을 넣어 두었다』 (문학과지성사, 2013)"
-type: "한 켠의 시, 001"
+type: "한 켠의 시, #1"
 text: true
-# book: true
 literature : true
 post-header: true
 header-img: "https://images.unsplash.com/photo-1527074111-ef2ff890ec8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
 order: 1
-# data-name: b-digital-product-designer
-# ridibooks: true
-# link: "https://ridibooks.com/v2/Detail?id="
 ---
 
 어느 <br>
@@ -28,8 +24,3 @@ order: 1
 밥을 먹어야지 <br>
 <br>
 나는 밥을 먹었다
-
-<!-- <img src="https://images.unsplash.com/photo-1470256699805-a29e1b58598a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"> -->
-
-
-<!-- "https://images.unsplash.com/photos-JZT2Bw7mQS4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80" -->
