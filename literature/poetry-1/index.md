@@ -24,9 +24,9 @@ order: 1
 무엇인가 영원히 지나가버렸다고<br>
 지금도 영원히<br>
 지나가버리고 있다고<br>
-<br><br>
+<br>
 밥을 먹어야지 <br>
-<br><br>
+<br>
 나는 밥을 먹었다
 
 <img src="https://images.unsplash.com/photo-1470256699805-a29e1b58598a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">
