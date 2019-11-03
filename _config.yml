@@ -27,7 +27,10 @@ github:
   repo:         https://github.com/boys-be-ambitious/boys-be-ambitious.github.io
 
 
-disqus_shortname: 'seokhyeonjang'
+# Disqus
+discus-identifier: seokhyeonjang # add your discus identifier
+
+# disqus_shortname: 'seokhyeonjang'
+# disqus_id : 'seokhyeonjang'
 # disqus_shortname: 'boys-be-ambitious'
 # disqus_url : 'http://disqus.com/by/disqus_hLIkSEMYCO'
-disqus_id : 'seokhyeonjang'
