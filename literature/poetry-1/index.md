@@ -3,7 +3,7 @@ layout: post
 author: "Seokhyeon Jang"
 title:  "어느 늦은 저녁 나는 / 한강"
 subtitle: "『서랍에 저녁을 넣어 두었다』 (문학과지성사, 2013)"
-type: "한 켠의 시 : 1"
+type: "한 켠의 시, 001"
 text: true
 # book: true
 literature : true
