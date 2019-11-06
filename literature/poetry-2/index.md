@@ -9,7 +9,7 @@ literature : true
 post-header: true
 comments: true
 header-img: "https://images.unsplash.com/photo-1520525388072-cd9e991a5e41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80"
-order: 1
+order: 2
 ---
 
 사람이 죽으면<br>
