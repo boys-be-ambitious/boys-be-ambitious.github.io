@@ -12,7 +12,7 @@
     <meta property="og:type"            content="article" /> 
     <meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
     
-    <meta property="og:image" content="{% if page.post-header == true or page.project-header == true %}{{ site.url }}{{ page.url }}{{ page.header-img }}{% else %}{{ site.url }}{{ '/img/share-img.jpg'}}{% endif %}">
+    <meta property="og:image" content="{% if page.post-header == true or page.project-header == true %}{{ site.url }}{{ page.url }}{{ page.header-img }}{% else %}{{ site.url }}{{ '/img/share-img-1.jpg'}}{% endif %}">
 
     <meta name="twitter:card" content="summary_large_image"> 
     
@@ -27,7 +27,7 @@
     <meta name="twitter:description" content="{% if page.main == true %}{{ page.description }}{% else %}{{ page.content | truncatewords: 30 | strip_html }}{% endif %}">
     
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
   <link rel="shortcut icon" href="http://www.jihyeleee.com/img/favicon.ico">
     
