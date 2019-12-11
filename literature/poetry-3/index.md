@@ -8,7 +8,7 @@ text: true
 literature : true
 post-header: true
 comments: true
-header-img: "https://images.unsplash.com/photo-1572504824749-56f096c3064b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+header-img: "https://images.unsplash.com/photo-1521837026692-ea38304a1319?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2690&q=80"
 order: 2
 ---
 
