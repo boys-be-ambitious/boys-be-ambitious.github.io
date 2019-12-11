@@ -13,7 +13,8 @@
     <meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
     
     <meta property="og:image" content="{% if page.post-header == true or page.project-header == true %}{{ site.url }}{{ page.url }}{{ page.header-img }}{% else %}{{ site.url }}{{ '/img/share-img-1.jpg'}}{% endif %}">
-    
+    <!-- <meta property="og:image" content="{% if page.post-header == true %}{{ page.header-img | prepend: page.url | prepend: 'https://boys-be-ambitious.github.io/' }}{% else %}{{ 'img/share-img-1.jpg | prepend: 'https://boys-be-ambitious.github.io/' }}{% endif %}"> -->
+
     <meta name="twitter:card" content="summary_large_image"> 
     
     <!-- title -->
