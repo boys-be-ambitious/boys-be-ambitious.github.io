@@ -6,11 +6,12 @@ type: "Development"
 blog: true
 text: true
 author: "Seokhyeon Jang"
+engineering : true
 post-header: true
-header-img: "img/agile.png"
-order: 2
+comments: true
+header-img: "./img/agile.png"
+order: 1
 ---
-
 
 #### Jira란? [^1]
 ![jira-logo](./img/jira-logo.png)

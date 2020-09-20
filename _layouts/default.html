@@ -24,7 +24,7 @@
                     <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
                 </li> -->
                 <li class="transition">
-                    <a href="{{ '' | prepend: site.baseurl }}" {% if current[1] == "literature" or current[1] == "about" %} class="normal" {% endif %} class="active">Home</a>
+                    <a href="{{ '' | prepend: site.baseurl }}/" {% if current[1] == "literature" or current[1] == "engineering" or current[1] == "about" %} class="normal" {% endif %} class="active">Home</a>
                 </li>
                 <li class="transition">
                     <a href="{{ '/literature' | prepend: site.baseurl }}" {% if current[1] == "literature" %} class="active"{% endif %} >Literature</a>
