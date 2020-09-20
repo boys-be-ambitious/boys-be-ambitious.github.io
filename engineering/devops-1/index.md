@@ -7,6 +7,7 @@ blog: true
 text: true
 author: "Seokhyeon Jang"
 post-header: true
+engineering : true
 comments: true
 header-img: "img/agile.png"
 order: 1
