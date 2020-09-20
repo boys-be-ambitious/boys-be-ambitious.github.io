@@ -3,8 +3,8 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Seokhyeon Jang
-baseurl:        "https://boys-be-ambitious.github.io/"
-url:            "https://boys-be-ambitious.github.io/"
+baseurl:        "https://boys-be-ambitious.github.io"
+url:            "https://boys-be-ambitious.github.io"
 
 # Assets
 sass:
